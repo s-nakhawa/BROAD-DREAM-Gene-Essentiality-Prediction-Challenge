@@ -1,1 +1,1 @@
-# Broad-DREAM Gene Essentiality Prediction Challenge
+# BROAD-DREAM Gene Essentiality Prediction Challenge
